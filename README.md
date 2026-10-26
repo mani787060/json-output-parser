@@ -263,9 +263,3 @@ By combining JSON-oriented prompting, Google Gemini, and LangChain's LCEL pipeli
 
 Understanding JSON parsing and its limitations provides a foundation for developing more reliable applications involving information extraction, text processing, and AI-powered assistants.
 
-## Author
-
-**Mani Ratan**
-
-- GitHub: [mani787060](https://github.com/mani787060)
-- Repository: [json-output-parser](https://github.com/mani787060/json-output-parser)
