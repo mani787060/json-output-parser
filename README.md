@@ -262,4 +262,3 @@ This project provides practical exposure to:
 By combining JSON-oriented prompting, Google Gemini, and LangChain's LCEL pipeline, this project demonstrates a fundamental technique for building structured Generative AI workflows.
 
 Understanding JSON parsing and its limitations provides a foundation for developing more reliable applications involving information extraction, text processing, and AI-powered assistants.
-
